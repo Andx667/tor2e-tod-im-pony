@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Baut die Druckfassung von „Die Notizen des Fremden“.
+"""Baut die Druckfassung von „Tod im Tänzelnden Pony“.
 
     python3 tools/build.py            # beide Fassungen
     python3 tools/build.py buch       # nur eine: blatt | buch
 
 Schritte:
   1. Version und Stand aus git (letztes Tag v*, Commit-Datum) -> build/version.tex
-  2. src/fremder.md -> build/body.tex (pandoc + filters/fremder.lua);
+  2. src/pony.md -> build/body.tex (pandoc + filters/pony.lua);
      die Briefe gehen zusätzlich nach build/letters.tex (Handout-Seiten)
-  3. LuaLaTeX (latexmk) -> build/Notizen-des-Fremden-TOR2e-DE.pdf (Blattfassung, gelocht)
-     und build/Notizen-des-Fremden-TOR2e-DE-Buch.pdf (Buchfassung zum Binden)
-  4. Kopie mit Version im Namen -> build/Notizen-des-Fremden-TOR2e-DE-v1.0.pdf
+  3. LuaLaTeX (latexmk) -> build/Tod-im-Taenzelnden-Pony-TOR2e-DE.pdf (Blattfassung, gelocht)
+     und build/Tod-im-Taenzelnden-Pony-TOR2e-DE-Buch.pdf (Buchfassung zum Binden)
+  4. Kopie mit Version im Namen -> build/Tod-im-Taenzelnden-Pony-TOR2e-DE-v1.0.pdf
 
 Benötigt: pandoc, LuaLaTeX mit latexmk (TeX Live), Python 3.
 Ohne luaotfload wird ersatzweise XeLaTeX genutzt (FW_ENGINE=… erzwingt eine Engine).
@@ -24,11 +24,11 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BUILD = os.path.join(ROOT, "build")
-JOB = "Notizen-des-Fremden-TOR2e-DE"
+JOB = "Tod-im-Taenzelnden-Pony-TOR2e-DE"
 # Fassung -> (LaTeX-Gerüst, Jobname)
 EDITIONS = {
-    "blatt": ("latex/fremder.tex", JOB),
-    "buch": ("latex/fremder-buch.tex", JOB + "-Buch"),
+    "blatt": ("latex/pony.tex", JOB),
+    "buch": ("latex/pony-buch.tex", JOB + "-Buch"),
 }
 
 
@@ -85,8 +85,8 @@ def main():
 
     env = dict(os.environ, FW_BUILD=BUILD)
     open(os.path.join(BUILD, "letters.tex"), "w").close()  # der Filter hängt jeden Brief an
-    run(["pandoc", "src/fremder.md", "-f", "markdown", "-t", "latex",
-         "--lua-filter", "filters/fremder.lua",
+    run(["pandoc", "src/pony.md", "-f", "markdown", "-t", "latex",
+         "--lua-filter", "filters/pony.lua",
          "-o", os.path.join(BUILD, "body.tex")], env=env)
 
     env["TEXINPUTS"] = os.path.join(ROOT, "latex") + "//" + os.pathsep + env.get("TEXINPUTS", "")

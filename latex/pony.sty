@@ -1,11 +1,11 @@
-% fremder.sty – Layout für „Die Notizen des Fremden“ (TOR 2e, Druckfassung), übernommen aus „Graufieber“ und „Die Finsterwacht“
+% pony.sty – Layout für „Tod im Tänzelnden Pony“ (TOR 2e, Druckfassung), übernommen aus „Graufieber“ und „Die Finsterwacht“
 % LuaLaTeX (CI) oder XeLaTeX (lokaler Ersatz). Seitenränder links 26 mm (Lochung), Notizspalte rechts, Fußzeile mit
 % Version und Stand auf jeder Seite.
-% Option „buch“ (latex/fremder-buch.tex): Buchblock zum Binden – doppelseitig, die 26 mm
+% Option „buch“ (latex/pony-buch.tex): Buchblock zum Binden – doppelseitig, die 26 mm
 % liegen als Bundsteg innen, Notizspalte, Kolumnentitel und Seitenzahl außen; Querseiten
 % stehen gedreht im Hochformat, damit alle Seiten gleich groß sind.
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{fremder}[2026/11/09 Notizen des Fremden layout]
+\ProvidesPackage{pony}[2026/11/09 Tod im Tänzelnden Pony layout]
 
 \newif\iffw@book
 \DeclareOption{buch}{\fw@booktrue}
@@ -36,11 +36,11 @@
   \RequirePackage[ngerman]{babel}\fw@hyphtrue
 }{%
   \RequirePackage{babel}\babelprovide[import,main]{german}%
-  \PackageWarningNoLine{fremder}{Keine deutschen Trennmuster gefunden –
+  \PackageWarningNoLine{pony}{Keine deutschen Trennmuster gefunden –
     Flattersatz ohne Silbentrennung. Im CI-Build (volles TeX Live) ist das anders}%
 }
 \RequirePackage[hidelinks,bookmarksopen=true,bookmarksopenlevel=0,
-  pdfpagemode=UseOutlines,pdftitle={Die Notizen des Fremden},
+  pdfpagemode=UseOutlines,pdftitle={Tod im Tänzelnden Pony},
   pdfsubject={Ein Abenteuer für The One Ring, 2nd Edition}]{hyperref}
 \RequirePackage{bookmark}
 
@@ -112,7 +112,7 @@
 
 % ---------------------------------------------------------------- Titel und Kapitel
 % \fwtitle{Titel}{Untertitel}; \fwsubsep im Untertitel trennt mit „ · “
-\newcommand\fwshorttitle{Die Notizen des Fremden}
+\newcommand\fwshorttitle{Tod im Tänzelnden Pony}
 \newcommand\fwsubsep{\ \textperiodcentered\ }
 \newcommand\fwtitle[2]{%
   \noindent{\fontsize{24}{27}\selectfont\bfseries\color{fwred}#1\par}%

@@ -1,4 +1,4 @@
-# make        -> build/Notizen-des-Fremden-TOR2e-DE.pdf und …-Buch.pdf
+# make        -> build/Tod-im-Taenzelnden-Pony-TOR2e-DE.pdf und …-Buch.pdf
 # make blatt  -> nur die Blattfassung (gelocht)
 # make buch   -> nur die Buchfassung (zum Binden)
 # make maps   -> Karten, Routendiagramm und Schaubilder neu zeichnen (braucht Playwright, siehe tools/maps.py)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Malt das Titelbild von „Die Notizen des Fremden“: Bree bei Nacht im Herbstregen, der Bree-Hill
+"""Malt das Titelbild von „Tod im Tänzelnden Pony“: Bree bei Nacht im Herbstregen, der Bree-Hill
 als dunkler Rücken, warme Fenster, vorn der Hag mit seiner Lücke und eine Gestalt mit Laterne auf
 dem Weg. Rein prozedural (numpy, OpenCV), anschließend malerisch nachbearbeitet.
 

@@ -1,4 +1,4 @@
-# Die Notizen des Fremden
+# Tod im Tänzelnden Pony
 
 ![Titelbild: Bree bei Nacht im Herbstregen, eine Gestalt mit Laterne in der Lücke des Hags](assets/cover-de.jpg)
 
@@ -13,7 +13,7 @@ Dieses Repository enthält den Text des Abenteuers und die Pipeline, die daraus 
 Druckfassung baut. Sie ist von [tor2e-graufieber](https://github.com/Andx667/tor2e-graufieber)
 und [tor2e-finsterwacht](https://github.com/Andx667/tor2e-finsterwacht) übernommen. Bei jedem
 Commit baut GitHub Actions die PDFs (Reiter **Actions** → letzter Lauf → Artefakte
-`Notizen-des-Fremden-TOR2e-DE-v….pdf` und `Notizen-des-Fremden-TOR2e-DE-Buch-v….pdf`).
+`Tod-im-Taenzelnden-Pony-TOR2e-DE-v….pdf` und `Tod-im-Taenzelnden-Pony-TOR2e-DE-Buch-v….pdf`).
 
 ## Was drin ist
 
@@ -33,14 +33,14 @@ Commit baut GitHub Actions die PDFs (Reiter **Actions** → letzter Lauf → Art
 
 | Pfad | Inhalt |
 | --- | --- |
-| `src/fremder.md` | Der Abenteuertext (Pandoc-Markdown) – hier wird geschrieben |
+| `src/pony.md` | Der Abenteuertext (Pandoc-Markdown) – hier wird geschrieben |
 | `latex/karten.tex` | Die Beweiskarten |
 | `latex/ermittlung.tex` | Der Bogen *Ermittlungsstand* für den Loremaster |
 | `latex/inhalt.tex` | Inhalt beider Fassungen: Titel, Karten, Handouts, Ermittlungsbogen der Spieler |
-| `latex/fremder.sty` | Das Layout: Ränder, Notizspalte, Kästen, Tabellen, Karten, Handouts, Beweiskarten |
-| `latex/fremder.tex` | Gerüst der Blattfassung (einseitig, links gelocht) |
-| `latex/fremder-buch.tex` | Gerüst der Buchfassung (Buchblock zum Binden) |
-| `filters/fremder.lua` | Pandoc-Filter: Markdown-Elemente → Layout-Bausteine |
+| `latex/pony.sty` | Das Layout: Ränder, Notizspalte, Kästen, Tabellen, Karten, Handouts, Beweiskarten |
+| `latex/pony.tex` | Gerüst der Blattfassung (einseitig, links gelocht) |
+| `latex/pony-buch.tex` | Gerüst der Buchfassung (Buchblock zum Binden) |
+| `filters/pony.lua` | Pandoc-Filter: Markdown-Elemente → Layout-Bausteine |
 | `assets/maps/` | Die gezeichneten Karten als JPG, Quellen als SVG in `svg/` |
 | `assets/diagrams/` | Schaubilder: Personen und Beweise |
 | `assets/route-de.*` | Das Routendiagramm im Überblick |
@@ -85,9 +85,9 @@ git push --tags
 
 ## Blattfassung und Buchfassung
 
-- **Blattfassung** (`Notizen-des-Fremden-TOR2e-DE-v….pdf`): lose Blätter für den Ordner, 26 mm Rand
+- **Blattfassung** (`Tod-im-Taenzelnden-Pony-TOR2e-DE-v….pdf`): lose Blätter für den Ordner, 26 mm Rand
   links für die Lochung, Karten und Handouts im Querformat.
-- **Buchfassung** (`Notizen-des-Fremden-TOR2e-DE-Buch-v….pdf`): Buchblock zum Binden, doppelseitig;
+- **Buchfassung** (`Tod-im-Taenzelnden-Pony-TOR2e-DE-Buch-v….pdf`): Buchblock zum Binden, doppelseitig;
   Querseiten stehen gedreht, Notizseiten füllen auf eine durch 4 teilbare Seitenzahl auf.
 
 ## Lokal bauen
@@ -106,7 +106,7 @@ Trennmuster, setzt es Flattersatz. Maßgeblich ist der CI-Build.
 
 ## Lizenz und Rechte
 
-„Die Notizen des Fremden“ ist ein **inoffizielles Fanwerk**, nicht verbunden mit oder gebilligt von
+„Tod im Tänzelnden Pony“ ist ein **inoffizielles Fanwerk**, nicht verbunden mit oder gebilligt von
 Middle-earth Enterprises, der Tolkien Estate, Sophisticated Games oder Free League Publishing. Siehe
 [NOTICE.md](NOTICE.md). Das Abenteuer darf nicht verkauft werden.
 
@@ -114,5 +114,6 @@ Code, Layout, Karten und der eigene Text stehen unter der MIT-Lizenz, siehe [LIC
 
 ## Geschichte
 
-Der erste Entwurf entstand als Claude-Doc (Version 0.1–0.3). Version 1.0 übernimmt diese Fassung;
-dieses Repository ist ab jetzt die maßgebliche Quelle.
+Der erste Entwurf entstand als Claude-Doc (Version 0.1–0.3) unter dem Arbeitstitel „Die Notizen des
+Fremden“. Version 1.0 übernimmt diese Fassung; ab Version 1.1 heißt das Abenteuer „Tod im Tänzelnden
+Pony“. Dieses Repository ist die maßgebliche Quelle.

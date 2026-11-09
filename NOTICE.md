@@ -1,6 +1,6 @@
 # Hinweis
 
-**„Die Notizen des Fremden“ ist ein inoffizielles Fanwerk.** Es ist nicht verbunden mit Middle-earth Enterprises, der
+**„Tod im Tänzelnden Pony“ ist ein inoffizielles Fanwerk.** Es ist nicht verbunden mit Middle-earth Enterprises, der
 Tolkien Estate, Sophisticated Games oder Free League Publishing und wird von ihnen weder unterstützt noch
 gebilligt.
 

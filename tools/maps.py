@@ -1,4 +1,4 @@
-"""Zeichnet die Karten von „Die Notizen des Fremden“ (Loremaster- und Spielerfassung), das
+"""Zeichnet die Karten von „Tod im Tänzelnden Pony“ (Loremaster- und Spielerfassung), das
 Routendiagramm und die beiden Schaubilder (Personen, Beweise).
 
 Helfer (rough, blob, label, num, frame …) übernommen aus tools/maps.py von Graufieber und der Finsterwacht.

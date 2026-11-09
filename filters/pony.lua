@@ -1,5 +1,5 @@
 --[[
-Pandoc-Filter für „Die Notizen des Fremden“: Markdown -> LaTeX-Bausteine aus latex/fremder.sty.
+Pandoc-Filter für „Tod im Tänzelnden Pony“: Markdown -> LaTeX-Bausteine aus latex/pony.sty.
 
   * Kapitel (## im Markdown):   \fwchapter{notes|nonotes}{id}{Titel}{Lesezeichen}
   * Kästen (Absätze, die mit einem fetten Label beginnen): fwbox-Umgebung
@@ -74,7 +74,7 @@ local function table_to_latex(tbl)
   local first = stringify(st.headers[1] or {})
   local spec = TABLES[first]
   if not spec then
-    io.stderr:write("fremder.lua: unbekannter Tabellentyp '" .. first .. "', Standardbreiten\n")
+    io.stderr:write("pony.lua: unbekannter Tabellentyp '" .. first .. "', Standardbreiten\n")
     local n = #st.headers
     local w = {}
     for i = 1, n do w[i] = 1 / n end
