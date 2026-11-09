@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 504" width="2280" height="1512">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#9a9088"/></marker><marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7a2a1f"/></marker></defs>
+<rect width="760" height="504" fill="#ffffff"/>
+<rect x="478" y="12" width="84" height="46" rx="7" fill="#eef2e6" stroke="#4e7a3a" stroke-width="1.8"/>
+<text x="520" y="32" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">A</text>
+<text x="520" y="49" font-family="TeX Gyre Pagella" font-size="9.5" font-weight="400" fill="#6f665c" text-anchor="middle">nicht Harnil</text>
+<rect x="568" y="12" width="84" height="46" rx="7" fill="#f6e7e3" stroke="#7a2a1f" stroke-width="1.8"/>
+<text x="610" y="32" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">C</text>
+<text x="610" y="49" font-family="TeX Gyre Pagella" font-size="9.5" font-weight="400" fill="#6f665c" text-anchor="middle">Edric war es</text>
+<rect x="658" y="12" width="84" height="46" rx="7" fill="#e9eef4" stroke="#3e5f86" stroke-width="1.8"/>
+<text x="700" y="32" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">B</text>
+<text x="700" y="49" font-family="TeX Gyre Pagella" font-size="9.5" font-weight="400" fill="#6f665c" text-anchor="middle">Spitzel Fenn</text>
+<text x="20" y="54" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="700" fill="#6f665c" text-anchor="start">Beweis</text><text x="290" y="54" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="700" fill="#6f665c" text-anchor="start">Fundort · Wurf</text>
+<path d="M20 66 H740" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="20" y="66" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="83" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">1 · Die Wunden: Mitternacht, keine Klinge</text>
+<text x="290" y="83" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Tatort · Healing</text>
+<circle cx="520" cy="79" r="6" fill="#4e7a3a"/>
+<text x="26" y="109" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">2 · Das Fenster: Schlamm nur innen</text>
+<text x="290" y="109" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Tatort · Scan, Hunting</text>
+<circle cx="520" cy="105" r="6" fill="#4e7a3a"/>
+<rect x="20" y="118" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="135" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">3 · Harnils Stiefel: Walderde</text>
+<text x="290" y="135" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Torwächterhütte · Scan</text>
+<circle cx="520" cy="131" r="6" fill="#4e7a3a"/>
+<text x="26" y="161" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">4 · Das Wort des Rangers</text>
+<text x="290" y="161" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Chetwood · Council</text>
+<circle cx="520" cy="157" r="6" fill="#4e7a3a"/>
+<rect x="20" y="170" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="187" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">5 · Roter Lehm aus Archet</text>
+<text x="290" y="187" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Tatort · Explore</text>
+<circle cx="610" cy="183" r="6" fill="#7a2a1f"/>
+<text x="26" y="213" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">6 · Das Gästebuch: Zimmer 4</text>
+<text x="290" y="213" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Schankraum</text>
+<circle cx="610" cy="209" r="6" fill="#7a2a1f"/>
+<rect x="20" y="222" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="239" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">7 · Der hinkende Schatten</text>
+<text x="290" y="239" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Lily · Courtesy, Enhearten</text>
+<circle cx="520" cy="235" r="6" fill="#4e7a3a"/>
+<circle cx="610" cy="235" r="6" fill="#7a2a1f"/>
+<text x="26" y="265" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">8 · Die Stiefel am Trog</text>
+<text x="290" y="265" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Tom Tunnelly</text>
+<circle cx="610" cy="261" r="6" fill="#7a2a1f"/>
+<rect x="20" y="274" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="291" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">9 · Hobs Botgänge</text>
+<text x="290" y="291" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Hob · Insight, Persuade</text>
+<circle cx="700" cy="287" r="6" fill="#3e5f86"/>
+<text x="26" y="317" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">10 · Die Karte aus dem Wagen</text>
+<text x="290" y="317" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Combe · Scan, Craft</text>
+<circle cx="610" cy="313" r="6" fill="#7a2a1f"/>
+<circle cx="700" cy="313" r="6" fill="#3e5f86"/>
+<rect x="20" y="326" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="343" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">11 · Brief an Fenn</text>
+<text x="290" y="343" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Combe</text>
+<circle cx="700" cy="339" r="6" fill="#3e5f86"/>
+<text x="26" y="369" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">12 · Die Lücke im Hag</text>
+<text x="290" y="369" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Bree, Nordost · Explore, Hunting</text>
+<circle cx="610" cy="365" r="6" fill="#7a2a1f"/>
+<circle cx="700" cy="365" r="6" fill="#3e5f86"/>
+<rect x="20" y="378" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="395" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">13 · Lehm in den Nähten</text>
+<text x="290" y="395" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Edrics Hof · Scan</text>
+<circle cx="610" cy="391" r="6" fill="#7a2a1f"/>
+<text x="26" y="421" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">14 · Fenns Notizbuch</text>
+<text x="290" y="421" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Werkstatt · Scan oder Marigold</text>
+<circle cx="610" cy="417" r="6" fill="#7a2a1f"/>
+<circle cx="700" cy="417" r="6" fill="#3e5f86"/>
+<rect x="20" y="430" width="720" height="26" fill="#f7f1e6"/>
+<text x="26" y="447" font-family="TeX Gyre Pagella" font-size="11.5" font-weight="400" fill="#2b2420" text-anchor="start">15 · Das Wort des Südländers</text>
+<text x="290" y="447" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Gefangener · Awe, Persuade</text>
+<circle cx="610" cy="443" r="6" fill="#7a2a1f"/>
+<circle cx="700" cy="443" r="6" fill="#3e5f86"/>
+<path d="M20 456 H740" stroke="#9a9088" stroke-width="1.2"/>
+<text x="26" y="478" font-family="TeX Gyre Pagella" font-size="12" font-weight="700" fill="#2b2420" text-anchor="start">Wege zum Schluss</text>
+<text x="520" y="478" font-family="TeX Gyre Pagella" font-size="13" font-weight="700" fill="#2b2420" text-anchor="middle">5</text>
+<text x="610" y="478" font-family="TeX Gyre Pagella" font-size="13" font-weight="700" fill="#2b2420" text-anchor="middle">9</text>
+<text x="700" y="478" font-family="TeX Gyre Pagella" font-size="13" font-weight="700" fill="#2b2420" text-anchor="middle">6</text>
+</svg>

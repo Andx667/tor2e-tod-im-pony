@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="2280" height="1410">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#9a9088"/></marker><marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7a2a1f"/></marker></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<rect x="250" y="12" width="260" height="50" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="380" y="33" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">Osric Fenn</text>
+<text x="380" y="51" font-family="TeX Gyre Pagella" font-size="11" font-weight="400" fill="#6f665c" text-anchor="middle">das Opfer · Kundschafter für „R.“</text>
+<path d="M380 62 V84 M130 84 H630 M130 84 V108 M380 84 V108 M630 84 V108" fill="none" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="20" y="108" width="220" height="50" rx="7" fill="#eef2e6" stroke="#4e7a3a" stroke-width="1.8"/>
+<text x="130" y="129" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">Harnil</text>
+<text x="130" y="147" font-family="TeX Gyre Pagella" font-size="11" font-weight="400" fill="#6f665c" text-anchor="middle">angeklagt · unschuldig</text>
+<rect x="270" y="108" width="220" height="50" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="380" y="129" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">Hob Ferny</text>
+<text x="380" y="147" font-family="TeX Gyre Pagella" font-size="11" font-weight="400" fill="#6f665c" text-anchor="middle">falsche Fährte · Dieb</text>
+<rect x="520" y="108" width="220" height="50" rx="7" fill="#f6e7e3" stroke="#7a2a1f" stroke-width="1.8"/>
+<text x="630" y="129" font-family="TeX Gyre Pagella" font-size="14" font-weight="700" fill="#2b2420" text-anchor="middle">Edric Brambleby</text>
+<text x="630" y="147" font-family="TeX Gyre Pagella" font-size="11" font-weight="400" fill="#6f665c" text-anchor="middle">der Täter</text>
+<path d="M36 158 V308" stroke="#9a9088" stroke-width="1.2" fill="none"/>
+<path d="M36 212 H52" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="52" y="176" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="64" y="198" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Mat Goatleaf</text>
+<text x="64" y="218" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">sah Harnil um zehn gehen</text>
+<text x="64" y="234" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">schläft danach selbst</text>
+<path d="M36 308 H52" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="52" y="272" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="64" y="294" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Iorlas</text>
+<text x="64" y="314" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Alibi: im Lager vor zwölf</text>
+<text x="64" y="330" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">zählt vor Bree nur einfach</text>
+<path d="M286 158 V308" stroke="#9a9088" stroke-width="1.2" fill="none"/>
+<path d="M286 212 H302" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="302" y="176" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="314" y="198" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Garth und Wenric</text>
+<text x="314" y="218" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Fenns Begleiter, Hobs Kontakt</text>
+<text x="314" y="234" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#7a2a1f" text-anchor="start">jagen das Notizbuch</text>
+<path d="M286 308 H302" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="302" y="272" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="314" y="294" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Wat Rushlight</text>
+<text x="314" y="314" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">verwahrt Fenns Wagen</text>
+<text x="314" y="330" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">die Südländer wollten ihn</text>
+<path d="M536 158 V404" stroke="#9a9088" stroke-width="1.2" fill="none"/>
+<path d="M536 212 H552" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="552" y="176" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="564" y="198" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Lily Brockhouse</text>
+<text x="564" y="218" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">sah den Hinkenden, halb eins</text>
+<text x="564" y="234" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">war mit Tom im Stallhof</text>
+<path d="M536 308 H552" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="552" y="272" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="564" y="294" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Tom Tunnelly</text>
+<text x="564" y="314" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">sah Edric Stiefel waschen</text>
+<text x="564" y="330" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">redet nach Lilys Aussage</text>
+<path d="M536 404 H552" stroke="#9a9088" stroke-width="1.2"/>
+<rect x="552" y="368" width="188" height="72" rx="7" fill="#f7f1e6" stroke="#9a9088" stroke-width="1.1"/>
+<text x="564" y="390" font-family="TeX Gyre Pagella" font-size="12.5" font-weight="700" fill="#2b2420" text-anchor="start">Marigold Brambleby</text>
+<text x="564" y="410" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">Edrics Frau</text>
+<text x="564" y="426" font-family="TeX Gyre Pagella" font-size="10.5" font-weight="400" fill="#6f665c" text-anchor="start">kennt das Versteck</text>
+<path d="M490 212 H505 V133 H514" fill="none" stroke="#7a2a1f" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#r)"/>
+</svg>

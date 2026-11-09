@@ -1,0 +1,88 @@
+% Inhalt beider Fassungen (fremder.tex: Blattfassung, fremder-buch.tex: Buchfassung).
+% Die Dateien in build/ erzeugt das Build-Skript.
+\fwtitle{Die Notizen des Fremden}{Ein Abenteuer für The One Ring, 2nd Edition\fwsubsep Bree-land, Herbst TA 2968}
+
+\input{build/body.tex}
+
+% ---- Rechtehinweis am Ende des Textes
+\fwnotice
+
+% ---- Karten für den Loremaster (nummeriert, quer)
+\fwlmmap[Karten für den Loremaster]{lm-breeland}{Karte: Das Bree-land}%
+  {Loremaster-Version · Nummern wie in Teil 2}{assets/maps/map-breeland-de.jpg}{Das Bree-land}
+\fwlmmap{lm-pony}{Karte: Das Prancing Pony}%
+  {Loremaster-Version · Nummern wie in Teil 1, „Der Tatort“}{assets/maps/map-pony-de.jpg}{Das Prancing Pony}
+\fwlmmap{lm-hof}{Karte: Edrics Hof in Archet}%
+  {Loremaster-Version · Nummern wie in Teil 3}{assets/maps/map-hof-de.jpg}{Edrics Hof}
+\label{fw-lastnum}
+
+% ---- Handouts für die Spieler (ohne Seitenzahl)
+\input{build/letters.tex}
+
+% Ermittlungsbogen: was die Spieler selbst mitschreiben
+\makeatletter
+\newcommand\fw@bogenrow[2]{% Name (vorgegeben oder leer), Rolle
+  \noindent\begin{minipage}{\linewidth}
+  \ifblank{#1}{\fwrule{38mm}}{\textbf{#1}}\hfill{\itshape\color{fwgrey}#2}\par\vspace{4.2mm}
+  \fwrule{\linewidth}\par\vspace{5.2mm}
+  \end{minipage}\par}
+\newcommand\fw@bogenline[2]{\noindent\makebox[22mm][l]{\textbf{#1}}\ifblank{#2}{\fwrule{\dimexpr\linewidth-22mm\relax}}{{\small #2}}\par\vspace{4.4mm}}
+\newcommand\fw@bogenhead[1]{{\fontsize{11}{13}\selectfont\scshape\addfontfeature{LetterSpace=3}\color{fwred}#1\par}\vspace{0.6mm}{\color{fwcardline}\hrule height 0.5pt}\vspace{2.4mm}}
+\newcommand\fw@bogenbox[1]{\makebox[11mm][l]{\fwcheck\,{\small #1}}}
+\newcommand\fw@bogen{%
+  \setlength\parskip{0pt}%
+  {\fontsize{20}{22}\selectfont\bfseries\color{fwred}Ermittlungsbogen}\hfill
+  {\itshape\color{fwgrey}Wer hat Osric Fenn getötet? \quad Name der Gruppe: \fwrule{45mm}}\par
+  \vspace{1.5mm}{\color{fwred}\hrule height 0.8pt}\vspace{4mm}
+  \noindent
+  \begin{minipage}[t]{92mm}\vspace{0pt}
+    \fw@bogenhead{Personen – was wir über sie wissen}
+    \fw@bogenrow{Osric Fenn}{der Tote, „Händler“ aus dem Süden}
+    \fw@bogenrow{Harnil}{der Ranger, angeklagt}
+    \fw@bogenrow{Butterbur}{Wirt des Prancing Pony}
+    \fw@bogenrow{Mat Goatleaf}{Torwächter am Südtor}
+    \fw@bogenrow{}{}
+    \fw@bogenrow{}{}
+    \fw@bogenrow{}{}
+    \fw@bogenrow{}{}
+    \fw@bogenrow{}{}
+  \end{minipage}\hspace{8mm}%
+  \begin{minipage}[t]{76mm}\vspace{0pt}
+    \fw@bogenhead{Die Mordnacht}
+    \fw@bogenline{9. Stunde}{Streit im Pony: „Sonst komme ich wieder.“}
+    \fw@bogenline{10. Stunde}{}
+    \fw@bogenline{11. Stunde}{}
+    \fw@bogenline{Mitternacht}{}
+    \fw@bogenline{nach 12}{}
+    \fw@bogenline{}{}
+    \fw@bogenline{Morgengrauen}{}
+    \fw@bogenline{7. Stunde}{Lily findet Fenn tot.}
+    \fw@bogenline{8. Stunde}{Harnil am Südtor festgehalten.}
+    \vspace{3mm}
+    \fw@bogenhead{Orte}
+    \makebox[25mm][l]{\fwcheck\ Pony}\makebox[30mm][l]{\fwcheck\ Torwächterhütte}\fwcheck\ Staddle\par\vspace{2.4mm}
+    \makebox[25mm][l]{\fwcheck\ Combe}\makebox[30mm][l]{\fwcheck\ Archet}\fwcheck\ Chetwood\par\vspace{2.4mm}
+    \makebox[25mm][l]{\fwcheck\ \fwrule{14mm}}\makebox[30mm][l]{\fwcheck\ \fwrule{18mm}}\fwcheck\ \fwrule{12mm}\par
+  \end{minipage}\hspace{8mm}%
+  \begin{minipage}[t]{57mm}\vspace{0pt}
+    \fw@bogenhead{Beweiskarten}
+    \fw@bogenbox{1}\fw@bogenbox{2}\fw@bogenbox{3}\fw@bogenbox{4}\fw@bogenbox{5}\par\vspace{2.6mm}
+    \fw@bogenbox{6}\fw@bogenbox{7}\fw@bogenbox{8}\fw@bogenbox{9}\fw@bogenbox{10}\par\vspace{2.6mm}
+    \fw@bogenbox{11}\fw@bogenbox{12}\fw@bogenbox{13}\fw@bogenbox{14}\fw@bogenbox{15}\par
+    \vspace{5mm}
+    \fw@bogenhead{Offene Fragen}
+    \fwrule{\linewidth}\par\vspace{7mm}\fwrule{\linewidth}\par\vspace{7mm}\fwrule{\linewidth}\par\vspace{7mm}
+    \fwrule{\linewidth}\par\vspace{7mm}\fwrule{\linewidth}\par\vspace{7mm}\fwrule{\linewidth}\par\vspace{7mm}
+    \fwrule{\linewidth}\par\vspace{7mm}
+    \fw@bogenhead{Die Frist}
+    \fwcheck\ Tag 1 \ \fwcheck\ Tag 2 \ \fwcheck\ Tag 3 \ \fwcheck\ Tag 4\par\vspace{2mm}
+    {\small\itshape Das Thing tritt am 15. Winterfilth bei Sonnenuntergang am Westtor zusammen.\par}
+  \end{minipage}}
+\let\fwbogen\fw@bogen
+\makeatother
+
+\fwhandoutmap[Handouts für die Spieler]{h-breeland}{assets/maps/map-breeland-players-de.jpg}{Karte: Das Bree-land}
+\fwhandoutmap{h-pony}{assets/maps/map-pony-players-de.jpg}{Karte: Das Obergeschoss des Pony}
+\fwhandoutletter{h-brief}{Brief an Fenn}{brief}{R.}
+\fwhandoutletter{h-notizbuch}{Seite aus Fenns Notizbuch}{notizbuch}{O. F.}
+\fwhandoutsheet{h-bogen}{Ermittlungsbogen}{\fwbogen}

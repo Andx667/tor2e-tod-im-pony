@@ -1,0 +1,17 @@
+% Die Notizen des Fremden – Buchfassung: Buchblock zum Binden. Wird von tools/build.py aufgerufen
+% (LuaLaTeX, Arbeitsverzeichnis = Projektwurzel).
+% Doppelseitig mit Bundsteg innen, Titelblatt, alle Seiten A4 hoch (Querseiten gedreht),
+% Seitenzahl durch 4 teilbar. Einzelseiten in Lesereihenfolge, nicht ausgeschossen.
+\documentclass[10pt,twoside]{article}
+\usepackage[buch]{fremder}
+\input{build/version.tex}
+
+\begin{document}
+
+\fwbooktitle{Die Notizen des Fremden}{Ein Abenteuer für The One Ring, 2nd Edition · Bree-land, Herbst TA 2968}{assets/cover-de.jpg}
+
+\input{latex/inhalt.tex}
+
+\fwfillsheets
+
+\end{document}
