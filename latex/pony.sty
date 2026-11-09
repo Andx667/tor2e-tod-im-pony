@@ -401,7 +401,7 @@
   \null\fw@bookmarks{}{#1}{#2}}
 
 % ---------------------------------------------------------------- Buchfassung: Titelblatt, Bogenfüllung
-% \fwbooktitle{Titel}{Untertitel}{Bild} – Titelblatt mit leerer Rückseite
+% \fwbooktitle{Titel}{Untertitel}{Bild} – Titelblatt mit leerer Rückseite; Bild leer = ohne Bild
 \newcommand\fwbooktitle[3]{%
   \gdef\fwpagekind{blank}%
   \begingroup\centering
@@ -410,7 +410,7 @@
   \vspace{6mm}{\color{fwred}\hrule height 1.2pt}\vspace{6mm}%
   {\fontsize{13}{18}\selectfont\itshape\color{fwgrey}#2\par}%
   \vspace{14mm}%
-  \includegraphics[width=\linewidth]{#3}\par
+  \ifblank{#3}{}{\includegraphics[width=\linewidth]{#3}\par}
   \vfill
   {\fontsize{9}{12}\selectfont\color{fwgrey}Version \fwversion\ · Stand \fwstand\par
    \fwcredit\par}%

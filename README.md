@@ -1,7 +1,5 @@
 # Tod im Tänzelnden Pony
 
-![Titelbild: Bree bei Nacht im Herbstregen, eine Gestalt mit Laterne in der Lücke des Hags](assets/cover-de.jpg)
-
 Ein Abenteuer für *The One Ring, 2nd Edition* · Bree-land, Herbst TA 2968.
 
 Ein Krimi-One-Shot für 3–4 Spieler (4–5 Stunden) im Bree-land: In der Nacht nach dem Herbstmarkt wird
@@ -44,10 +42,8 @@ Commit baut GitHub Actions die PDFs (Reiter **Actions** → letzter Lauf → Art
 | `assets/maps/` | Die gezeichneten Karten als JPG, Quellen als SVG in `svg/` |
 | `assets/diagrams/` | Schaubilder: Personen und Beweise |
 | `assets/route-de.*` | Das Routendiagramm im Überblick |
-| `assets/cover-de.jpg` | Titelbild der Buchfassung (gemalt von `tools/cover.py`) |
 | `tools/build.py` | Baut das PDF |
 | `tools/maps.py` | Zeichnet Karten, Routendiagramm und Schaubilder neu (optional, braucht Playwright und Pillow) |
-| `tools/cover.py` | Malt das Titelbild neu (numpy, OpenCV) |
 | `.github/workflows/build.yml` | CI: baut das PDF bei jedem Commit |
 | `NOTICE.md` | Wem die Namen und Inhalte gehören und was die MIT-Lizenz abdeckt |
 
@@ -98,7 +94,6 @@ Voraussetzungen: TeX Live mit LuaLaTeX und `latexmk`, `pandoc`, Python 3.
 make            # beide Fassungen; oder: python3 tools/build.py
 make buch       # nur eine Fassung (blatt | buch)
 make maps       # Karten und Schaubilder neu zeichnen
-make cover      # Titelbild neu malen
 ```
 
 Fehlt LuaLaTeX (`luaotfload`), nimmt das Skript ersatzweise XeLaTeX; fehlen die deutschen
