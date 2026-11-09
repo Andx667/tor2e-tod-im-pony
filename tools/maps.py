@@ -261,19 +261,19 @@ def breeland():
         s += house(x - 7, y - 5, 14, 10, 1240 + k, lw=1.2)
     s += house(220, 348, 22, 14, 1255, fill="#c9a86a", lw=1.8)  # das Pony
     # Wege zwischen den Dörfern
-    for k, wp in enumerate([[(300, 300), (360, 330), (420, 328)], [(470, 330), (520, 316), (540, 304)],
-                            [(548, 290), (552, 230), (556, 182)], [(300, 280), (400, 210), (500, 180), (546, 166)]]):
+    for k, wp in enumerate([[(300, 300), (360, 330), (420, 328)], [(462, 312), (476, 264), (474, 226)],
+                            [(300, 280), (360, 200), (448, 196)], [(490, 190), (540, 150), (584, 128)]]):
         s += path(rough(wp, jit=1.0, seed=1290 + k), 0.9, dash="2 4")
     # Staddle an den Südosthängen
     for k, (x, y) in enumerate([(420, 316), (438, 330), (456, 318), (446, 304), (470, 334)]):
         s += smial(x, y, 1260 + k)
-    # Combe in einem tiefen Tal
-    s += path(rough([(500, 230), (520, 270), (530, 320), (540, 380)], jit=1.4, seed=1270), 1.0, op=0.6)
-    s += path(rough([(560, 228), (566, 272), (568, 322), (572, 380)], jit=1.4, seed=1271), 1.0, op=0.6)
-    for k, (x, y) in enumerate([(536, 292), (550, 306), (544, 322), (556, 286)]):
+    # Combe in einem tiefen Tal nordöstlich des Hügels, etwas nördlich von Staddle
+    s += path(rough([(436, 140), (452, 180), (458, 220), (462, 250)], jit=1.4, seed=1270), 1.0, op=0.6)
+    s += path(rough([(504, 136), (500, 178), (498, 220), (494, 252)], jit=1.4, seed=1271), 1.0, op=0.6)
+    for k, (x, y) in enumerate([(468, 190), (482, 204), (474, 218), (486, 182)]):
         s += house(x - 6, y - 4, 12, 9, 1272 + k, lw=1.1)
-    # Archet am Rand des Chetwood
-    for k, (x, y) in enumerate([(546, 160), (562, 150), (574, 168), (556, 176)]):
+    # Archet weiter draußen, am Rand des Chetwood
+    for k, (x, y) in enumerate([(586, 118), (602, 108), (614, 126), (596, 134)]):
         s += house(x - 6, y - 4, 12, 9, 1280 + k, lw=1.1)
     s += trees(120, 480, 8, 40, 1295)
     if GM:
@@ -291,13 +291,13 @@ def breeland():
     s += hl(62, 556, "Greenway", 18, rot=-72)
     s += hl(160, 246, "Bree", 30) + hl(208, 378, "Prancing Pony", 13, col=BROWN)
     s += hl(86, 318, "Westtor", 15, col=BROWN) + hl(304, 456, "Südtor", 15, anchor="start", col=BROWN)
-    s += hl(450, 362, "Staddle", 21) + hl(552, 356, "Combe", 21) + hl(598, 150, "Archet", 21, anchor="start")
+    s += hl(450, 362, "Staddle", 21) + hl(530, 230, "Combe", 21, anchor="start") + hl(636, 112, "Archet", 21, anchor="start")
     s += hl(150, 140, "Bree-land", 34, col=BROWN)
     if GM:
         s += num(250, 360, 1) + num(286, 450, 2) + num(66, 388, 3)
         gx, gy = hag[24]
         s += num(gx - 6, gy - 30, 4) + hl(gx + 12, gy - 44, "Lücke", 15, anchor="start", col=RED)
-        s += num(410, 292, 5) + num(510, 270, 6) + num(530, 130, 7)
+        s += num(410, 292, 5) + num(522, 194, 6) + num(568, 96, 7)
         s += num(676, 226, 8) + hl(640, 272, "Lager der Ranger", 15, col=RED)
         s += num(408, 158, 9) + hl(372, 142, "Südländer", 15, col=RED)
     s += compass(300, 530)

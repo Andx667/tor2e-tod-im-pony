@@ -213,7 +213,7 @@ Staddle liegt an den Südosthängen des Bree-Hill, fast nur Hobbithöhlen. Die B
 
 ### Combe: Fenns Wagen
 
-Combe liegt in einem tiefen Tal östlich des Bree-Hill. Wat Rushlight, Fuhrmann, hat Fenns Wagen und Ladung im Schuppen. Er gibt ihn nur gegen Fenns Frachtschein oder ein gutes Wort von Butterbur heraus. Seit Fenns Tod waren schon zwei Fremde da, die ihn wollten. Wat hat sie weggeschickt.
+Combe liegt in einem tiefen Tal nordöstlich des Bree-Hill, ein Stück nördlich von Staddle. Wat Rushlight, Fuhrmann, hat Fenns Wagen und Ladung im Schuppen. Er gibt ihn nur gegen Fenns Frachtschein oder ein gutes Wort von Butterbur heraus. Seit Fenns Tod waren schon zwei Fremde da, die ihn wollten. Wat hat sie weggeschickt.
 
 - Ein *Scan*-Wurf am Wagen findet den doppelten Boden. Ein *Craft*-Wurf öffnet ihn, ohne ihn zu zerstören.
 - Darin: eine handgezeichnete Karte des Bree-lands mit Ranger-Wegen, die Lücke im Hag mit „E. B.“ markiert (Karte 10), und ein Brief (Karte 11, Handout).
@@ -253,7 +253,7 @@ Fenns zwei Begleiter, Garth und Wenric, wollen das Notizbuch und alles, was ihre
 
 ## Teil 3: Archet {#teil3}
 
-Archet ist das kleinste Dorf des Bree-lands, ein paar Höfe am Rand des Chetwood, wo die Erde rot ist. Hier wohnt Edric Brambleby mit seiner Frau Marigold und seinem Sohn Alfie. Hier liegt das Notizbuch. Und hierher kommen am Morgen von Tag 4 auch Fenns Begleiter, wenn die Helden sie nicht vorher aufgehalten haben.
+Archet ist das abgelegenste Dorf des Bree-lands, ein paar Höfe jenseits von Combe am Rand des Chetwood, wo die Erde rot ist. Hier wohnt Edric Brambleby mit seiner Frau Marigold und seinem Sohn Alfie. Hier liegt das Notizbuch. Und hierher kommen am Morgen von Tag 4 auch Fenns Begleiter, wenn die Helden sie nicht vorher aufgehalten haben.
 
 **Route:** Combe – Archet zwei Stunden, Bree – Archet gut drei Stunden. Der Weg steigt zum Wald hin an, der Boden wird rot.
 
