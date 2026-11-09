@@ -140,7 +140,9 @@ Fenns Zimmer liegt im ersten Stock zum Stallhof hinaus. Die Nummern entsprechen 
 
 1. **Die Leiche:** Ein *Healing*-Wurf zeigt einen Schlag gegen die Schläfe und eine zweite Wunde am Hinterkopf vom Sturz auf den Herdstein. Keine Klinge. Fenn starb gegen Mitternacht – zwei Stunden nachdem Harnil die Stadt verlassen hat. (Karte 1)
 2. **Das Fenster:** Ein *Scan*-Wurf zeigt Schlamm nur auf der Innenseite der Fensterbank. Draußen ist das Moos an der Hauswand unberührt. Ein *Hunting*-Wurf im Beet darunter: keine Spuren. Niemand ist hier eingestiegen. (Karte 2)
-3. **Der Schlamm:** Roter, zäher Lehm. Der Boden in Bree ist dunkel, und Harnils Stiefel tragen nur Walderde und Laub (*Scan* in der Torwächterhütte, Karte 3). Ein *Explore*-Wurf oder jeder Einheimische, den man fragt: „So rot ist's nur auf den Äckern bei Archet.“ (Karte 5)
+3. **Der Schlamm:** Roter, zäher Lehm. Der Boden in Bree ist dunkel. Jeder Einheimische, den man fragt: „So rot ist's nur draußen bei Archet und am Rand vom Chetwood.“ Und Ned Appledore setzt nach: „Da, wo die Ranger hausen.“ Erst ein *Explore*-Wurf entscheidet: Im Lehm stecken Strohhäcksel und Spreu – Ackerboden von den Feldern um Archet, kein Waldboden (Karte 5). Dazu passt, dass Harnils Stiefel nur Walderde und Laub tragen (*Scan* in der Torwächterhütte, Karte 3).
+
+**Hinweis für den Loremaster:** Auch ein Held aus dem Bree-land erkennt ohne Wurf nur „Archet oder Chetwood“. Bis der Lehm als Ackerboden erkannt ist, spricht er für Bree eher gegen Harnil als gegen Edric.
 4. **Der Leuchter:** Ein schwerer eiserner Kerzenleuchter, ordentlich auf den Tisch zurückgestellt. Am Fuß klebt Blut. Wer zuschlug, hat ihn danach wieder hingestellt – kein Einbrecher in Eile.
 5. **Fenns Habe:** Waidproben, Kleidung, ein Frachtschein: „Wagen und Ladung bei Wat Rushlight, Combe“. Keine Geldbörse. Kein Notizbuch – wer es am Abend gesehen hat, weiß, dass es fehlt.
 6. **Das Gästebuch:** Butterburs Buch im Schankraum nennt die Nachbarzimmer. Zur Haupttreppe hin neben Fenn, Zimmer 4: „E. Brambleby, Archet, zum Markt“. Auf der anderen Seite, Zimmer 6: zwei Zwerge, die beim ersten Licht durchs Westtor abgereist sind. (Karte 6)
@@ -151,7 +153,7 @@ Wer wo zu finden ist und was er will, steht im Anhang. Hier nur, worauf es ankom
 
 - **Harnil** (Keller der Torwächterhütte): siehe *Harnils Bitte*. Bei späteren Besuchen bestätigt er, was die Helden schon belegen können – etwa dass Fenn den Hag abgeschritten hat –, aber nie mehr. Das Lager nennt er nicht.
 - **Mat Goatleaf** (Torwächter): Der Ranger ging um die zehnte Stunde hinaus, danach war das Tor zu. „Wer sagt, er sei über den Hag geklettert, war nicht dabei.“ Ganz so wach ist Mat nicht: Laut Fenns Notizbuch schläft er nach der zehnten Stunde. Sein Wort entlastet Harnil kaum.
-- **Edric Brambleby** (nur bis Mittag an Tag 2 in Bree): hilfsbereit, erschüttert, und der Erste, der von „dem Ranger“ spricht. Ein *Insight*-Wurf zeigt: Er hat Angst, mehr als ein Zeuge haben sollte. Er hinkt, ein alter Unfall beim Fällen.
+- **Edric Brambleby** (nur bis Mittag an Tag 2 in Bree): hilfsbereit, erschüttert, und der Erste, der von „dem Ranger“ spricht. Ein *Insight*-Wurf zeigt: Er hat Angst, mehr als ein Zeuge haben sollte. Er hinkt, ein alter Unfall beim Fällen. Stellen die Helden ihn schon hier, gilt *Edric stellen* (Teil 3).
 - **Hob Ferny:** schlaksig, frech, mit neuen Stiefeln. Er war Fenns Laufbursche und streitet ab, das Zimmer betreten zu haben. Ein *Insight*-Wurf erkennt die Lüge. Unter Druck (*Persuade* oder *Awe*) gibt er die Börse zu und erzählt, dass Fenn ihn für Botgänge zu „Leuten draußen vor dem Hag“ bezahlt hat. (Karte 9)
 - **Tom Tunnelly** (Stallknecht): weicht aus, wird rot, fragt, wo Lily ist. Er redet, wenn die Helden wissen, dass Lily bei ihm war (Teil 2, Staddle). Ohne das nur mit einem *Persuade*-Wurf und dem Versprechen, Lily herauszuhalten. (Karte 8)
 
@@ -161,7 +163,7 @@ Wer wo zu finden ist und was er will, steht im Anhang. Hier nur, worauf es ankom
 2. „Der Fremde hat in Combe mehr Wagen stehen, als ein Waidhändler braucht.“ (Wahr: Es ist ein Wagen, aber mit doppeltem Boden.)
 3. „Die Lily ist heute Mittag heim nach Staddle gelaufen, weiß wie die Wand.“ (Wahr.)
 4. „Draußen vorm Hag lagern zwei Südländer, die keiner kennt.“ (Wahr: Fenns Begleiter.)
-5. „Die Ranger kommen ihn heute Nacht holen, dann brennt die Hütte.“ (Falsch: aber das Gerücht heizt die Stimmung an.)
+5. „Am Fenster klebt roter Lehm vom Chetwood – da hausen die Ranger.“ (Falsch: Es ist Ackerlehm von den Feldern bei Archet.)
 6. „Der Brambleby ist plötzlich wieder flüssig. Letzten Winter war er pleite.“ (Wahr.)
 
 ### Die Lücke im Hag (optional)
@@ -238,7 +240,7 @@ Verbrenne dies.\
 Ohne Harnils Zeichen finden die Helden das Lager nicht. Die Ranger finden sie. Mit dem Zeichen führt ein *Explore*-Wurf sie zu einer Lichtung, auf der Iorlas, der Anführer, sie schon erwartet.
 
 - **Route:** Bree – Lager gut zwei Stunden, von Archet oder Combe gut eine Stunde. Ein Ereignis wie bei den kurzen Wegen.
-- Iorlas bestätigt: Harnil kam kurz vor Mitternacht ins Lager, hielt Wache bis zur vierten Stunde und brach noch vor Tagesanbruch wieder nach Bree auf. Mehr als das sagt er nicht – und vor dem Thing aussagen wird er nur, wenn die Helden ihn in einem *Council* (*Resistance* 4, *Attitude* *Reluctant*) davon überzeugen. (Karte 4)
+- Iorlas bestätigt: Harnil kam kurz vor Mitternacht ins Lager, hielt Wache bis zur vierten Stunde und brach noch vor Tagesanbruch wieder nach Bree auf. Mehr als das sagt er nicht – und vor dem Thing aussagen wird er nur, wenn die Helden ihn in einem *Council* (*Resistance* 6: eine kühne Bitte, denn ein Ranger, der sich in Bree zeigt, verrät viel) davon überzeugen. (Karte 4)
 - Die Ranger beobachten die beiden Südländer seit Tagen und wissen, wo sie lagern.
 - Optional: Auf dem Rückweg ein Rudel *Wild Wolves* (*Core Rules*). Überspringbar.
 
@@ -268,19 +270,19 @@ Archet ist das abgelegenste Dorf des Bree-lands, ein paar Höfe jenseits von Com
 
 ### Edric stellen
 
-Edric ist kein Mörder aus Neigung, sondern ein Mann, der in einem Augenblick alles verloren hat. Wie er reagiert, hängt davon ab, was die Helden in der Hand haben:
+Edric ist kein Mörder aus Neigung, sondern ein Mann, der in einem Augenblick alles verloren hat. Die Helden können ihn stellen, wann und wo sie wollen – im Pony am Morgen von Tag 2, auf dem Weg oder hier auf seinem Hof. Wie er reagiert, hängt nur davon ab, was sie in der Hand haben:
 
-- **Weniger als zwei Beweisstücke gegen ihn:** Er leugnet, freundlich und zitternd, und schickt sie fort. Sobald sie fort sind, flieht er mit dem Notizbuch in den Chetwood.
+- **Weniger als zwei Beweisstücke gegen ihn:** Er leugnet, freundlich und zitternd. In Bree stehen die Leute zu ihm – ein Hausvater gegen Fremde. Sobald die Helden fort sind, flieht er mit dem Notizbuch in den Chetwood; ist er gerade in Bree, holt er es vorher zu Hause.
 - **Zwei Beweisstücke:** Ein *Insight*-Wurf zeigt, dass er kurz vor dem Zusammenbruch steht. Ein *Persuade*-Wurf bringt ihn zum Reden.
 - **Drei oder mehr Beweisstücke:** Er bricht zusammen und gesteht, ohne Wurf. Er bittet nur darum, dass Marigold und Alfie nicht für ihn bezahlen müssen.
 
 **Wenn sie Edric entkommen lassen:** Flieht Edric, können die Helden ihm mit einem *Hunting*-Wurf in den Wald folgen. Haben sie das Vertrauen der Ranger gewonnen, haben die ihn schon bis Mittag aufgegriffen.
 
-### Die Südländer in Archet
+### Die Südländer holen sich das Buch
 
-Wurden Garth und Wenric noch nicht gestellt, kommen sie am Vormittag von Tag 4 zu Edrics Hof, um sich das Notizbuch zu holen. Die Helden treffen ein, als Edric mit dem Rücken zur Werkstatt steht und Marigold schreit.
+Solange noch einer von Fenns Begleitern frei ist – auch einer, der in der Nacht von Tag 3 entkommen ist –, will er das Notizbuch. Er taucht bei Edric auf, kurz bevor die Helden ihn zum ersten Mal auf seinem Hof aufsuchen, spätestens am Vormittag von Tag 4. Die Helden treffen ein, als Edric mit dem Rücken zur Werkstatt steht und Marigold schreit.
 
-- Werte wie in Teil 2. Sie fliehen, sobald einer von ihnen *Wounded* ist.
+- Werte wie in Teil 2. Ist nur noch einer übrig, hat er zwei Tagelöhner aus Combe angeworben (*Highway-robbers*, ohne Bogen). Sie fliehen, sobald einer von ihnen *Wounded* ist.
 - Die Helden retten hier den Mann, den sie überführen wollen. Lass sie diesen Moment spüren.
 - Danach gesteht Edric ohne Wurf.
 
@@ -316,7 +318,7 @@ Das Abenteuer folgt der Drei-Hinweise-Regel: Für jede der drei Schlussfolgerung
 | 2 | Fenster: Schlamm nur innen, außen keine Spuren | Tatort | *Scan*, *Hunting* | A |
 | 3 | Harnils Stiefel: Walderde, kein roter Lehm | Torwächterhütte | *Scan* | A |
 | 4 | Harnil war vor Mitternacht im Lager | Iorlas | *Council* | A |
-| 5 | Der rote Lehm kommt aus Archet | Tatort | *Explore* oder fragen | C |
+| 5 | Der rote Lehm ist Ackerboden aus Archet | Tatort | *Explore* (fragen allein: „Archet oder Chetwood“) | C |
 | 6 | Zimmer 4: „E. Brambleby, Archet“ | Gästebuch | – | C |
 | 7 | Der hinkende Mann mit Laterne, niemand am Fenster | Lily, Staddle | *Courtesy*, *Enhearten* | A, C |
 | 8 | Edric wusch im Morgengrauen roten Lehm von den Stiefeln | Tom Tunnelly | nach Lilys Aussage oder *Persuade* | C |
@@ -340,18 +342,18 @@ Bei Sonnenuntergang von Tag 4 versammeln sich die Hausväter des Bree-lands vor 
 | --- | --- | --- | --- |
 | Ankunft | Sonnenuntergang | Die Helden, Butterbur | Ob die Helden überhaupt reden dürfen. *Introduction* mit *Courtesy*, Butterburs Fürsprache zählt als Vorteil. |
 | Anklage | erste Stunde | Ned Appledore, Edric (falls noch frei) | Die Stimmung. Ned fordert den Strick. Ist Edric noch nicht entlarvt, stimmt er ihm zu. |
-| Beweise | bis die Fackeln herunterbrennen | Die Helden, ihre Zeugen | Harnils Leben. Die *Interaction*-Würfe gegen *Resistance* 6, *Attitude* *Reluctant*. |
+| Beweise | bis die Fackeln herunterbrennen | Die Helden, ihre Zeugen | Harnils Leben. *Resistance* 9: eine ungeheuerliche Bitte – Bree soll einen Ranger freisprechen und einen der Seinen verdächtigen. |
 | Urteil | danach | Die ältesten Hausväter | Wer hängt, wer frei ist und was Bree künftig von Rangern hält. |
 
 ### Beweise vor dem Thing
 
 **Hausregel – Beweise im Council:** Beweise, die die Helden vorlegen, wirken wie folgt:
 
-- Jedes Beweisstück, das sie vorlegen und sinnvoll mit ihrem Argument verbinden, zählt als ein automatischer Erfolg, höchstens drei.
-- Ein Zeuge aus Fleisch und Blut – Lily oder Tom – zählt doppelt. Iorlas zählt nur einfach: Einem Ranger glaubt Bree wenig.
+- Jedes Beweisstück, das sie vorlegen und sinnvoll mit ihrem Argument verbinden, zählt als ein Erfolg, ohne einen Versuch zu verbrauchen – höchstens drei.
+- Jeder Zeuge, der vor dem Thing spricht – Lily, Tom oder Iorlas –, verlängert das Zeitlimit um einen Versuch. Er zählt nicht als Erfolg.
 - Edrics Geständnis vor dem Thing beendet den *Council* sofort mit einem Erfolg.
 
-Alle übrigen Erfolge kommen aus den *Interaction*-Würfen wie üblich.
+Alle übrigen Erfolge kommen aus den Würfen wie üblich. Ohne Geständnis ist das Thing schwer zu gewinnen – das ist gewollt: Bree glaubt am Ende nur einem Mann aus Bree.
 
 - Belegen die Helden nur A, aber nicht C, glaubt Bree ihnen höchstens halb.
 - Ist Edric im Publikum und nicht entlarvt, gib den Helden einen letzten *Insight*-Wurf: Er wird blass, als jemand den Hinkenden erwähnt.
