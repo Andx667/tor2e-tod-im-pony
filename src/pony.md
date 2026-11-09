@@ -59,8 +59,8 @@ Harnil wird nicht sagen, wo er die Nacht verbracht hat. Das Lager zu verraten, w
 
 ### Wer etwas weiß – und warum er schweigt
 
-- **Lily Brockhouse** (Hobbit-Magd aus Staddle) war um Mitternacht nicht in ihrer Kammer, sondern im Stallhof bei Tom Tunnelly. Gegen halb eins sah sie auf dem Rückweg im Gang einen Mann mit Laterne, der aus Fenns Zimmer kam – und hinkte. Aus Angst, entlassen oder selbst verdächtigt zu werden, ist sie zu ihrer Familie nach Staddle geflohen.
-- **Tom Tunnelly** (Stallknecht) sah Edric im Morgengrauen roten Schlamm von seinen Stiefeln waschen. Er schweigt, um Lily zu schützen. Beide waren um Mitternacht im Stallhof, unter Fenns Fenster – dort ist niemand hinaufgeklettert.
+- **Lily Brockhouse** (Hobbit-Magd aus Staddle) war um Mitternacht nicht in ihrer Kammer, sondern im Stallhof bei Tom Tunnelly. Gegen halb eins sah sie auf dem Rückweg im Gang einen Mann mit Laterne, der aus Fenns Zimmer kam, von ihr weg zur Haupttreppe hin ging – und hinkte. Dann fiel die Tür von Zimmer 4 zu. Aus Angst, entlassen oder selbst verdächtigt zu werden, ist sie zu ihrer Familie nach Staddle geflohen.
+- **Tom Tunnelly** (Stallknecht) sah Edric im Morgengrauen roten Schlamm von seinen Stiefeln waschen. Er schweigt, um Lily zu schützen. Beide waren um Mitternacht im Stallhof, unter Fenns Fenster: Kurz nach Mitternacht ging es auf, Licht dahinter – aber niemand ist hinaus- oder hinaufgeklettert.
 - **Hob Ferny** hat die Börse und weiß, wofür Fenn bezahlte. Er lügt, weil er ein Dieb ist, nicht weil er gemordet hat.
 - **Fenns zwei Begleiter** lagern vor dem Hag. Sie wollen das Notizbuch für ihren Herrn zurück. Edric kennen sie nur als „den Hinkenden aus Archet“, der die Lücke offen hält, und sie vermuten, dass er das Buch hat.
 
@@ -143,7 +143,7 @@ Fenns Zimmer liegt im ersten Stock zum Stallhof hinaus. Die Nummern entsprechen 
 3. **Der Schlamm:** Roter, zäher Lehm. Der Boden in Bree ist dunkel, und Harnils Stiefel tragen nur Walderde und Laub (*Scan* in der Torwächterhütte, Karte 3). Ein *Explore*-Wurf oder jeder Einheimische, den man fragt: „So rot ist's nur auf den Äckern bei Archet.“ (Karte 5)
 4. **Der Leuchter:** Ein schwerer eiserner Kerzenleuchter, ordentlich auf den Tisch zurückgestellt. Am Fuß klebt Blut. Wer zuschlug, hat ihn danach wieder hingestellt – kein Einbrecher in Eile.
 5. **Fenns Habe:** Waidproben, Kleidung, ein Frachtschein: „Wagen und Ladung bei Wat Rushlight, Combe“. Keine Geldbörse. Kein Notizbuch – wer es am Abend gesehen hat, weiß, dass es fehlt.
-6. **Das Gästebuch:** Butterburs Buch im Schankraum nennt die Nachbarzimmer. Links von Fenn: „E. Brambleby, Archet, zum Markt“. Rechts: zwei Zwerge, die beim ersten Licht durchs Westtor abgereist sind. (Karte 6)
+6. **Das Gästebuch:** Butterburs Buch im Schankraum nennt die Nachbarzimmer. Zur Haupttreppe hin neben Fenn, Zimmer 4: „E. Brambleby, Archet, zum Markt“. Auf der anderen Seite, Zimmer 6: zwei Zwerge, die beim ersten Licht durchs Westtor abgereist sind. (Karte 6)
 
 ### Verhöre in Bree
 
@@ -174,7 +174,7 @@ Wer Hob folgt, einen Hinweis von Tom bekommt oder mit einem *Explore*-Wurf den N
 
 Ab Tag 2 nachmittags verlassen die Helden Bree. Drei Spuren führen hinaus: Lily nach Staddle, der Frachtschein nach Combe, Harnils Ring in den Chetwood. Die Reihenfolge wählen die Spieler. Archet (Teil 3) wird erst interessant, wenn sie den roten Lehm oder den Namen Brambleby einordnen können.
 
-**Route:** Bree – Staddle (gut zwei Stunden zu Fuß), Staddle – Combe (eine Stunde), Combe – Archet (zwei Stunden), Bree – Lager am Rand des Chetwood (gut zwei Stunden), Archet oder Combe – Lager (gut eine Stunde). Alles auf Feldwegen, im Herbstregen.
+**Route:** Bree – Staddle (gut zwei Stunden zu Fuß), Staddle – Combe (eine Stunde), Combe – Archet (gut eine Stunde), Bree – Lager am Rand des Chetwood (gut zwei Stunden), Archet oder Combe – Lager (gut eine Stunde). Alles auf Feldwegen, im Herbstregen.
 
 ![Das Bree-land, Loremaster-Version. Die Nummern entsprechen dem Text; rot: was die Helden nicht kennen – die Lücke im Hag, das Lager der Ranger und das der Südländer.](assets/maps/map-breeland-de.jpg){.map}
 
@@ -206,7 +206,7 @@ Ab Tag 2 nachmittags verlassen die Helden Bree. Drei Spuren führen hinaus: Lily
 Staddle liegt an den Südosthängen des Bree-Hill, fast nur Hobbithöhlen. Die Brockhouses wohnen am oberen Ende. Lilys Mutter lässt niemanden zu ihr, der nicht höflich fragt und einen guten Grund hat.
 
 - Ein *Courtesy*-Wurf an der Tür, dann ein *Enhearten*-Wurf, damit Lily redet. Sie fürchtet, sie verliert ihre Stelle, wenn herauskommt, wo sie um Mitternacht war.
-- Was sie gesehen hat: Gegen halb eins kam ein Mann mit Laterne aus Fenns Zimmer und ging den Gang hinunter – nach links, also zu Zimmer 4. Sein Gesicht sah sie nicht. Aber er hinkte. Und vom Stallhof aus hätten sie und Tom jeden gesehen, der zu Fenns Fenster hinaufsteigt. Da war niemand. (Karte 7)
+- Was sie gesehen hat: Kurz nach Mitternacht ging oben Fenns Fenster auf, Licht dahinter – aber niemand stieg hinaus oder hinein, und sie und Tom standen direkt darunter. Gegen halb eins, auf dem Rückweg über die Hintertreppe, sah sie einen Mann mit Laterne aus Fenns Zimmer kommen. Er ging von ihr weg zur Haupttreppe hin, dann fiel die Tür von Zimmer 4 zu. Sein Gesicht sah sie nicht. Aber er hinkte. (Karte 7)
 - Was sie verrät, ohne es zu wollen: Sie war mit Tom Tunnelly im Stallhof. Mit diesem Wissen kann man Tom in Bree zum Reden bringen – er sah Edric im Morgengrauen roten Lehm von seinen Stiefeln waschen.
 
 **Wenn sie trotzdem gehen:** Kommen die Helden erst an Tag 4, ist Lily fort. Ihr Vater hat sie zu Verwandten in die Shire gebracht. Ihre Mutter erzählt nur noch die Hälfte, und nur mit einem *Persuade*-Wurf.
@@ -238,7 +238,7 @@ Verbrenne dies.\
 Ohne Harnils Zeichen finden die Helden das Lager nicht. Die Ranger finden sie. Mit dem Zeichen führt ein *Explore*-Wurf sie zu einer Lichtung, auf der Iorlas, der Anführer, sie schon erwartet.
 
 - **Route:** Bree – Lager gut zwei Stunden, von Archet oder Combe gut eine Stunde. Ein Ereignis wie bei den kurzen Wegen.
-- Iorlas bestätigt: Harnil kam kurz vor Mitternacht ins Lager, hielt Wache bis zur vierten Stunde und brach im ersten Grau wieder nach Bree auf. Mehr als das sagt er nicht – und vor dem Thing aussagen wird er nur, wenn die Helden ihn in einem *Council* (*Resistance* 4, *Attitude* *Reluctant*) davon überzeugen. (Karte 4)
+- Iorlas bestätigt: Harnil kam kurz vor Mitternacht ins Lager, hielt Wache bis zur vierten Stunde und brach noch vor Tagesanbruch wieder nach Bree auf. Mehr als das sagt er nicht – und vor dem Thing aussagen wird er nur, wenn die Helden ihn in einem *Council* (*Resistance* 4, *Attitude* *Reluctant*) davon überzeugen. (Karte 4)
 - Die Ranger beobachten die beiden Südländer seit Tagen und wissen, wo sie lagern.
 - Optional: Auf dem Rückweg ein Rudel *Wild Wolves* (*Core Rules*). Überspringbar.
 
@@ -248,14 +248,14 @@ Ohne Harnils Zeichen finden die Helden das Lager nicht. Die Ranger finden sie. M
 
 Fenns zwei Begleiter, Garth und Wenric, wollen das Notizbuch und alles, was ihren Herrn verraten könnte. Sie sind keine Narren und kämpfen nur, wenn sie im Vorteil sind: nachts, auf einem Feldweg, gegen übermüdete Helden.
 
-- Werte: zwei *Ruffians* aus den *Core Rules*, einer davon mit Bogen.
+- Werte: zwei *Highway-robbers* aus den *Core Rules*, einer davon mit Bogen.
 - Wer einen von ihnen gefangen nimmt, erfährt mit einem *Awe*- oder *Persuade*-Wurf: Fenn hatte „einen Mann in Archet“, und der habe das Buch. (Karte 15)
 
 ## Teil 3: Archet {#teil3}
 
 Archet ist das abgelegenste Dorf des Bree-lands, ein paar Höfe jenseits von Combe am Rand des Chetwood, wo die Erde rot ist. Hier wohnt Edric Brambleby mit seiner Frau Marigold und seinem Sohn Alfie. Hier liegt das Notizbuch. Und hierher kommen am Morgen von Tag 4 auch Fenns Begleiter, wenn die Helden sie nicht vorher aufgehalten haben.
 
-**Route:** Combe – Archet zwei Stunden, Bree – Archet gut drei Stunden. Der Weg steigt zum Wald hin an, der Boden wird rot.
+**Route:** Combe – Archet gut eine Stunde, Bree – Archet gut drei Stunden. Der Weg steigt zum Wald hin an, der Boden wird rot.
 
 ![Edrics Hof in Archet, Loremaster-Version. Die Nummern entsprechen der Liste; rot gestrichelt: der Weg, auf dem die Südländer am Morgen von Tag 4 kommen.](assets/maps/map-hof-de.jpg){.map}
 
